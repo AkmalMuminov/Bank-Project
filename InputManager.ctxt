@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InputManager
+comment1.params=inputSource
+comment1.target=Account\ readOneAccountFrom(java.util.Scanner)
+numComments=2

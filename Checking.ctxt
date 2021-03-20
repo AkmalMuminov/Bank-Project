@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Checking
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Checking\ here.\r\n\r\n\ @author\ (Ryan\ Deisler\ &\ Akmal\ Muminov)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=checkingName\ checkingID\ checkingBalance\ t\ odMax
+comment1.target=Checking(java.lang.String,\ java.lang.String,\ Money,\ char,\ Money)
+comment2.params=checkingWithdrawal
+comment2.target=void\ withdraw(Money)
+comment2.text=\r\n\ withdraw\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=char\ getType()
+comment4.text=\r\n\ returns\ char\ type\r\n
+numComments=5

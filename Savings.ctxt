@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Savings
+comment0.text=\r\n\ Subclass\ of\ Account\ that\ has\ interestRate.\r\n\r\n\ @author\ (Ryan\ Deisler\ &\ Akmal\ Muminov)\r\n\ @version\ (4/3/18)\r\n
+comment1.params=savingsName\ savingsID\ savingsBalance\ t\ rateOfInterest
+comment1.target=Savings(java.lang.String,\ java.lang.String,\ Money,\ char,\ double)
+comment2.params=
+comment2.target=void\ addInterest()
+comment2.text=\r\n\ addInterest\:\ adds\ the\ interest\ rate\ to\ the\ Account's\ balance\r\n\ Precondition\:\ this\ account\ is\ a\ valid\ Account\ object\r\n\ Postcondition\:\ the\ balance\ of\ this\ account\ is\ equal\ what\ the\ balance\ was\r\n\ previously\ +\ the\ variable\ rate\ below\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=theWithdrawal
+comment4.target=void\ withdraw(Money)
+numComments=5

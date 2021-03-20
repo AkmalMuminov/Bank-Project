@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IOHandlerDialog
+comment0.text=\r\n\ IOHandlerDialog\:\ uses\ dialog\ boxes\ for\ input\ (via\ get\ method)\ and\ output\ (via\ put\ method).\r\n\ Note\:\ exceptions\ are\ potentially\ thrown\ by\ methods\ of\ JOptionPane;\ refer\ to\ documentation\ in\ Java\ standard\ library.\ \r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=IOHandlerDialog()
+comment1.text=\r\n\ constructor\r\n\ @param\ none\r\n
+comment2.params=prompt
+comment2.target=java.lang.String\ get(java.lang.String)
+comment2.text=\r\n\ get\:\ \r\n\ @param\ a\ String\ prompt\r\n\ @return\ a\ String\ that\ was\ input\ by\ the\ user\ from\ the\ selected\ source.\r\n
+comment3.params=output
+comment3.target=void\ put(java.lang.String)
+comment3.text=\r\n\ put\:\ \r\n\ @param\ a\ String\ to\ write\ to\ the\ selected\ destination.\r\n\ @return\ none.\r\n
+numComments=4

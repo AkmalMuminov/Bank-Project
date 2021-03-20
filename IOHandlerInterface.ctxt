@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IOHandlerInterface
+comment0.text=\r\n\ IOHandlerInterface\:\ specifies\ an\ ADT\ for\ handling\ of\ input,\ e.g.\r\n\ I/O\ can\ be\ based\ on\ standard\ input\ and\ output,\ or\ dialog\ boxes\r\n\ as\ implemented\ in\ concrete\ classes\ IOHandlerStandard\ and\ IOHandlerDialog\r\n\ respectively,\ which\ implement\ this\ interface.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=prompt
+comment1.target=java.lang.String\ get(java.lang.String)
+comment1.text=\r\n\ get\:\ \r\n\ @param\ none\r\n\ @return\ a\ String\ from\ input\ source.\r\n
+comment2.params=output
+comment2.target=void\ put(java.lang.String)
+comment2.text=\r\n\ put\:\ \r\n\ @param\ a\ String\ to\ write\ to\ the\ selected\ destination.\r\n\ @return\ none.\r\n
+numComments=3

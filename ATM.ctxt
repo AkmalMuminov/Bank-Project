@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=myBank\ id
+comment2.target=Account\ lookForAccount(BankInterface,\ java.lang.String)
+comment3.params=choice\ userID\ myBank
+comment3.target=void\ executeTransaction(char,\ java.lang.String,\ BankInterface)
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=char\ getFromMenu()
+comment5.params=
+comment5.target=java.lang.String\ enterID()
+comment6.params=fileName
+comment6.target=BankInterface\ readFromFile(java.lang.String)
+comment6.text=\r\n\ readFromFile\:\ \ \ \ ****\ INSERT\ COMMENTS\ ****\r\n\ \r\n
+numComments=7

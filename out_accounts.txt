@@ -1,0 +1,3 @@
+Name: Jane Smith, ID#: 69713, Balance: $40.00, Account Type: Savings
+Name: Ted Murphy, ID#: 72354, Balance: $102.56, Account Type: Checking
+Name: Edward Demsey, ID#: 93757, Balance: $759.32, Account Type: Checking

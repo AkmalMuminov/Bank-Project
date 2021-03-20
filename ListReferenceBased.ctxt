@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ListReferenceBased
+comment1.params=
+comment1.target=ListReferenceBased()
+comment10.params=item
+comment10.target=void\ insertNoDuplicates(java.lang.Object)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=index
+comment4.target=Node\ find(int)
+comment5.params=index
+comment5.target=java.lang.Object\ get(int)
+comment6.params=index\ item
+comment6.target=void\ add(int,\ java.lang.Object)
+comment7.params=index
+comment7.target=void\ remove(int)
+comment8.params=
+comment8.target=void\ removeAll()
+comment9.params=item
+comment9.target=void\ insert(java.lang.Object)
+comment9.text=\r\n\ insert\:\ inserts\ a\ new\ item\ into\ a\ sorted\ list.\r\n\ @param\ item\ \ \ \ an\ Object,\ the\ item\ to\ be\ inserted\ \r\n\ @return\ none\r\n\ Precondition\:\ list\ is\ sorted,\ and\ the\ items\ on\ the\ list\ implement\ the\ Comparable\ interface.\r\n\ Postcondition\:\ list\ is\ still\ sorted,\ with\ the\ new\ item\ inserted.\r\n
+numComments=11
